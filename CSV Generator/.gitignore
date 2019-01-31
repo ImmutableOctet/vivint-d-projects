@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/raw-to-csv
+raw-to-csv.so
+raw-to-csv.dylib
+raw-to-csv.dll
+raw-to-csv.a
+raw-to-csv.lib
+raw-to-csv-test-*
+*.exe
+*.o
+*.obj
+*.lst

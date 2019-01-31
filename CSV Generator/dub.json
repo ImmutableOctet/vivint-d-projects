@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Anthony Diamond"
+	],
+	"copyright": "Copyright © 2019, Anthony Diamond",
+	"description": "A simple program that converts from tab-separated raw text files to CSV.",
+	"license": "MIT",
+	"name": "tsv-to-csv",
+
+	"dependencies": {
+		"vivint": { "path": "../modules/internal/vivint" },
+	}
+}
