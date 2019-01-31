@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Anthony Diamond"
+	],
+	"copyright": "Copyright © 2019, Anthony Diamond",
+	"description": "Utility functions used by internal tools.",
+	"license": "MIT",
+	"name": "vivint"
+}
